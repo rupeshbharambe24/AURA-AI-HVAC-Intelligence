@@ -1,0 +1,68 @@
+{
+  "models": [
+    {
+      "id": "demand_forecast_prod",
+      "name": "Demand Forecast",
+      "version": "v1",
+      "alias": "prod",
+      "owner": "ML Team",
+      "status": "active",
+      "training_period": "unknown",
+      "dataset_hash": "unknown",
+      "key_metric": "TBD",
+      "bundle_filename": "demand_forecasting_model_bundle.joblib",
+      "notes": "Metadata pending; update from bundle during Part 2.",
+      "metrics": [],
+      "versions": [],
+      "explainability": []
+    },
+    {
+      "id": "anomaly_detection_prod",
+      "name": "Anomaly Detection",
+      "version": "v1",
+      "alias": "prod",
+      "owner": "Data Science",
+      "status": "active",
+      "training_period": "unknown",
+      "dataset_hash": "unknown",
+      "key_metric": "TBD",
+      "bundle_filename": "anomaly_model_bundle.joblib",
+      "notes": "Metadata pending; update from bundle during Part 2.",
+      "metrics": [],
+      "versions": [],
+      "explainability": []
+    },
+    {
+      "id": "promotion_optimization_prod",
+      "name": "Promotion Optimization",
+      "version": "v1",
+      "alias": "prod",
+      "owner": "Optimization",
+      "status": "active",
+      "training_period": "unknown",
+      "dataset_hash": "unknown",
+      "key_metric": "TBD",
+      "bundle_filename": "event_impact_optimization_models.joblib",
+      "notes": "Metadata pending; update from bundle during Part 3.",
+      "metrics": [],
+      "versions": [],
+      "explainability": []
+    },
+    {
+      "id": "market_share_intel_prod",
+      "name": "Market Share Intelligence",
+      "version": "v1",
+      "alias": "prod",
+      "owner": "Strategy",
+      "status": "active",
+      "training_period": "unknown",
+      "dataset_hash": "unknown",
+      "key_metric": "TBD",
+      "bundle_filename": "marketshare_nlp_model_bundle.joblib",
+      "notes": "Metadata pending; update from bundle during Part 4.",
+      "metrics": [],
+      "versions": [],
+      "explainability": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+product,aps,year,month,is_anomaly,anomaly_type,magnitude,root_cause
+AH,ACNF,2022,Dec,True,drop_shortage,-21.3,Component shortage
+CL,CL_MB,2022,Feb,True,trend_break,-17.4,Construction cycle inflection
+HP,HP_3PH,2022,Jan,True,spike_promo,16.9,Seasonal promotion campaign
+CL,CL_MB,2022,Oct,True,spike_promo,26.2,Seasonal promotion campaign
+HP,HP_3PH,2022,Apr,True,drop_competition,-12.9,Competitor pricing move
+AH,AH_FIT,2022,Dec,True,drop_competition,-15.9,Competitor pricing move
+CL,CL,2022,Jun,True,spike_promo,16.9,Seasonal promotion campaign
+AH,AH_R,2022,Jun,True,pattern_shift,-9.9,Weather-driven seasonal shift
+FN,FN_80_MULTI,2022,Jul,True,spike_promo,26.0,Seasonal promotion campaign
+HP,HP_3PH,2022,Oct,True,spike_prebuy,23.3,Pre-buy ahead of regulation change
+AH,AH_FIT,2023,May,True,spike_promo,32.1,Seasonal promotion campaign
+AH,AWUF,2023,May,True,drop_competition,-12.4,Competitor pricing move
+CN,CN_1PH,2023,Jun,True,drop_shortage,-21.9,Component shortage
+CN,CN_FIT,2023,Nov,True,trend_break,-10.7,Construction cycle inflection
+HP,HP_FIT,2023,Apr,True,spike_prebuy,19.4,Pre-buy ahead of regulation change
+CN,CN_FIT,2023,Dec,True,pattern_shift,9.5,Weather-driven seasonal shift
+AH,AH_FIT,2023,Jan,True,drop_shortage,-19.0,Component shortage
+AH,AH_FIT,2023,Oct,True,trend_break,13.1,Construction cycle inflection
+FN,FN_90_VAR,2023,Mar,True,drop_shortage,-22.9,Component shortage
+HP,HP_FIT,2023,May,True,trend_break,15.8,Construction cycle inflection
+CN,CN_1PH,2024,Mar,True,pattern_shift,-11.5,Weather-driven seasonal shift
+AH,AH_FIT,2024,Nov,True,spike_prebuy,24.7,Pre-buy ahead of regulation change
+FN,FN_80_MULTI,2024,Jul,True,drop_competition,-12.8,Competitor pricing move
+FN,FN_90_MULTI,2024,Sep,True,spike_promo,28.6,Seasonal promotion campaign
+AH,MB,2024,May,True,trend_break,13.4,Construction cycle inflection
+FN,FN_80_VAR,2024,Aug,True,spike_promo,34.1,Seasonal promotion campaign
+CN,CN_FIT,2024,Mar,True,pattern_shift,14.4,Weather-driven seasonal shift
+HP,HP_FIT,2024,Apr,True,spike_prebuy,18.0,Pre-buy ahead of regulation change
+CL,CL_MB,2024,Sep,True,spike_promo,27.0,Seasonal promotion campaign
+FN,FN_80_MULTI,2024,Feb,True,drop_shortage,-11.8,Component shortage
+CN,CN_1PH,2025,Jan,True,spike_prebuy,26.0,Pre-buy ahead of regulation change
+AH,ACNF,2025,Dec,True,drop_competition,-10.2,Competitor pricing move
+HP,HP_1PH,2025,Mar,True,trend_break,-14.8,Construction cycle inflection
+CN,CN_FIT,2025,Oct,True,drop_competition,-8.4,Competitor pricing move
+HP,HP_FIT,2025,Dec,True,spike_prebuy,23.4,Pre-buy ahead of regulation change
+FN,FN_90_MULTI,2025,Aug,True,pattern_shift,-11.2,Weather-driven seasonal shift
+CL,CL,2025,Jun,True,spike_promo,26.8,Seasonal promotion campaign
+CL,CL_MB,2025,Apr,True,spike_promo,16.4,Seasonal promotion campaign
+AH,AH_FIT,2025,Feb,True,spike_promo,32.2,Seasonal promotion campaign
+AH,MB,2025,Apr,True,drop_shortage,-15.0,Component shortage
+CL,CL_MB,2023,Dec,False,,2.4,
+HP,HP_FIT,2025,Apr,False,,-2.5,
+FN,FN_90_VAR,2023,Feb,False,,1.2,
+AH,AWUF,2024,Jul,False,,1.4,
+FN,FN_90_VAR,2022,Nov,False,,-0.6,
+CN,CN_1PH,2023,Apr,False,,2.8,
+CL,CL_MB,2025,Mar,False,,-0.3,
+CL,CL,2025,Sep,False,,0.3,
+AH,ACNF,2022,Feb,False,,-0.3,
+CL,CL,2025,Aug,False,,0.0,
+FN,FN_80_VAR,2025,Jan,False,,-2.2,
+CL,CL_FIT,2022,Jul,False,,-2.9,
+CN,CN_3PH,2024,Jul,False,,3.2,
+HP,HP_FIT,2025,Mar,False,,-1.7,
+CL,CL_FIT,2023,Jan,False,,-2.0,
+HP,HP_FIT,2022,Dec,False,,-4.3,
+CN,CN_1PH,2022,Oct,False,,-1.3,
+FN,FN_80_VAR,2022,Sep,False,,-2.6,
+AH,AH_FIT,2022,Oct,False,,3.3,
+HP,HP_1PH,2022,Oct,False,,2.0,
+AH,AWUF,2024,May,False,,-1.4,
+CL,CL_MB,2024,Apr,False,,4.5,
+CN,CN_3PH,2023,Nov,False,,2.0,
+CN,CN_3PH,2024,Feb,False,,-0.6,
+AH,AWUF,2022,Feb,False,,-5.0,
+HP,HP_1PH,2024,Mar,False,,4.6,
+CN,CN_1PH,2025,Sep,False,,-2.8,
+CN,CN_FIT,2022,Nov,False,,-3.3,
+HP,HP_3PH,2022,Mar,False,,2.0,
+CN,CN_1PH,2022,Dec,False,,4.9,
+HP,HP_1PH,2024,May,False,,2.8,
+HP,HP_1PH,2024,Apr,False,,1.1,
+CN,CN_FIT,2025,May,False,,1.2,
+AH,ACNF,2025,May,False,,1.7,
+AH,ACNF,2024,Mar,False,,1.5,
+FN,FN_80_MULTI,2022,Feb,False,,0.6,
+CL,CL_MB,2022,Jun,False,,0.2,
+HP,HP_FIT,2023,Jul,False,,-0.1,
+CL,CL,2024,Jun,False,,-1.5,
+AH,AH_R,2023,Nov,False,,-0.6,
+HP,HP_3PH,2023,Apr,False,,-3.4,
+CL,CL,2025,Jan,False,,-0.2,
+CL,CL_MB,2024,Jul,False,,-2.0,
+CL,CL_FIT,2023,Dec,False,,-2.2,
+AH,AWUF,2022,Aug,False,,0.4,
+CN,CN_1PH,2023,Jan,False,,2.8,
+CL,CL_FIT,2024,May,False,,1.8,
+AH,AH_R,2024,Nov,False,,-3.1,
+HP,HP_3PH,2024,Jan,False,,-2.0,
+AH,AH_R,2023,Oct,False,,1.9,
+FN,FN_90_MULTI,2024,Jul,False,,-2.0,
+HP,HP_FIT,2022,Jul,False,,-0.4,
+HP,HP_1PH,2024,Jan,False,,1.1,
+FN,FN_80_MULTI,2023,Jun,False,,-1.9,
+FN,FN_80_MULTI,2024,Oct,False,,0.2,
+CN,CN_FIT,2022,Dec,False,,-2.7,
+CN,CN_FIT,2024,Nov,False,,-1.2,
+FN,FN_90_MULTI,2025,Dec,False,,0.6,
+CN,CN_FIT,2023,Apr,False,,-3.2,
+FN,FN_90_VAR,2023,Oct,False,,0.9,

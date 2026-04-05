@@ -1,0 +1,14 @@
+regulation_id,effective_date,announcement_date,regulation_type,products_affected,impact_description,impact_magnitude,compliance_deadline
+REG-2022-001,2022-07-01,2021-12-01,labeling_requirement,"AH,CL,CN,FN,HP",Updated EnergyGuide labels required,Low,2022-07-01
+REG-2022-002,2022-10-01,2022-02-15,efficiency_standard,HP,Cold climate performance disclosure,Medium,2022-10-01
+REG-2023-001,2023-01-01,2022-06-15,efficiency_standard,"HP,CN",SEER2 measurement method transition,Medium,2023-01-01
+REG-2023-002,2023-04-01,2022-09-01,emissions_limit,FN,Updated NOx emissions limits,Medium,2023-04-01
+REG-2024-001,2024-01-01,2023-04-15,efficiency_standard,AH,Minimum SEER2 14 for air handlers,Medium,2024-01-01
+REG-2024-002,2024-07-01,2023-12-01,refrigerant_phase,CL,R-410A production cap begins,High,2024-07-01
+REG-2025-001,2025-01-01,2024-06-01,efficiency_standard,"HP,CN",Minimum SEER2 15 for heat pumps and condensers,High,2025-01-01
+REG-2025-002,2025-01-01,2024-03-15,efficiency_standard,FN,AFUE 95% minimum for furnaces in North,High,2025-01-01
+REG-2025-003,2025-07-01,2024-09-15,refrigerant_phase,"AH,CL,HP",R-410A production reduction 40%,High,2026-01-01
+REG-2026-001,2026-01-01,2025-03-01,refrigerant_phase,"AH,CL,CN,HP",R-454B transition requirement,High,2026-01-01
+REG-2026-002,2026-01-01,2025-06-01,efficiency_standard,HP,Cold climate heat pump standards,Medium,2026-01-01
+REG-2027-001,2027-01-01,2026-01-15,efficiency_standard,CN,SEER2 16 minimum for condensers,High,2027-01-01
+REG-2027-002,2027-07-01,2026-09-01,refrigerant_phase,"AH,CL,CN,FN,HP",R-410A phase-out complete,High,2027-07-01

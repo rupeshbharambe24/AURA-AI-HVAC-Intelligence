@@ -1,0 +1,50 @@
+{
+  "constraints": {
+    "max_promos": 3,
+    "no_promo_months": [
+      1,
+      2,
+      3
+    ],
+    "var_limit_ratio": 1.0,
+    "var_limit_point": 21123803.394606303,
+    "chance_level_required": 0.9,
+    "min_mean_uplift_pct": 0.0
+  },
+  "baseline_point": {
+    "profit": 3693431976.3500004,
+    "variance": 21123803.394606303
+  },
+  "optimized_point": {
+    "profit": 3706961440.489042,
+    "variance": 18938183.669272434,
+    "profit_improvement_pct": 0.36631144760954637
+  },
+  "mc": {
+    "n_scenarios": 20,
+    "baseline_profit_mean": 3733085392.9199996,
+    "baseline_profit_p10": 3597957798.599999,
+    "baseline_profit_p50": 3784388386.1999993,
+    "baseline_profit_p90": 3861952525.4,
+    "baseline_profit_cvar": 3597957798.599999,
+    "baseline_var_mean": 844204952.7430553,
+    "baseline_prob_var_ok": 0.0,
+    "optimized_profit_mean": 3746015359.8091955,
+    "optimized_profit_p10": 3609962616.865639,
+    "optimized_profit_p50": 3791418499.89725,
+    "optimized_profit_p90": 3876048456.218033,
+    "optimized_profit_cvar": 3601210687.7665215,
+    "optimized_var_mean": 785439417.1906688,
+    "optimized_var_p90": 973255926.3200407,
+    "optimized_prob_var_ok": 0.0,
+    "uplift_mean": 12929966.889196372,
+    "uplift_p10": 4851223.817512561,
+    "uplift_p50": 13063002.602453947,
+    "uplift_p90": 23039441.367449474,
+    "uplift_pct_mean": 0.3463614015826898,
+    "uplift_pct_p10": 0.1299521255718707,
+    "uplift_pct_p90": 0.6171688815676447,
+    "prob_uplift_positive": 0.95,
+    "uplift_cvar": -80826.92125272751
+  }
+}

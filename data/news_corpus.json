@@ -1,0 +1,3319 @@
+{
+  "articles": [
+    {
+      "id": "NEWS-2023-001",
+      "date": "2023-06-05",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2023",
+      "body": "Industry sources report that epa finalizes new seer standards for 2023. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.9,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-002",
+      "date": "2023-12-09",
+      "source": "HPAC Engineering",
+      "headline": "York Announces New Packaged Unit Line for 2025",
+      "body": "Industry sources report that york announces new packaged unit line for 2025. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York",
+        "Packaged Unit"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.81,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2023-003",
+      "date": "2023-05-01",
+      "source": "Contracting Business",
+      "headline": "Housing Starts Rise to 15-Month High",
+      "body": "Industry sources report that housing starts rise to 15-month high. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.76,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-004",
+      "date": "2025-11-05",
+      "source": "HVAC Industry Weekly",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.03,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-005",
+      "date": "2023-01-25",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.83,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-006",
+      "date": "2025-04-01",
+      "source": "ACHR News",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Heat Pump"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.77,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-007",
+      "date": "2025-01-09",
+      "source": "ACHR News",
+      "headline": "York Expands Manufacturing Capacity by 11%",
+      "body": "Industry sources report that york expands manufacturing capacity by 11%. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.76,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2022-008",
+      "date": "2022-06-04",
+      "source": "Cooling Post",
+      "headline": "Rheem Faces Supply Chain Challenges",
+      "body": "Industry sources report that rheem faces supply chain challenges. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.85,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2022-009",
+      "date": "2022-09-11",
+      "source": "Contracting Business",
+      "headline": "Carrier Cuts Prices on Condenser Models",
+      "body": "Industry sources report that carrier cuts prices on condenser models. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier",
+        "Condenser"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.87,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-010",
+      "date": "2022-02-21",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.96,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-011",
+      "date": "2024-04-16",
+      "source": "HVAC Industry Weekly",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.53,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2024-012",
+      "date": "2024-03-06",
+      "source": "Contracting Business",
+      "headline": "Carrier Announces New Heat Pump Line for 2024",
+      "body": "Industry sources report that carrier announces new heat pump line for 2024. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.82,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2023-013",
+      "date": "2023-07-27",
+      "source": "HVAC Industry Weekly",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.92,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-014",
+      "date": "2025-08-13",
+      "source": "ACHR News",
+      "headline": "Trane Cuts Prices on Furnace Models",
+      "body": "Industry sources report that trane cuts prices on furnace models. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Furnace"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.81,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-015",
+      "date": "2025-05-07",
+      "source": "HVAC Industry Weekly",
+      "headline": "Rheem Faces Supply Chain Challenges",
+      "body": "Industry sources report that rheem faces supply chain challenges. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.71,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2025-016",
+      "date": "2025-04-15",
+      "source": "Cooling Post",
+      "headline": "HVAC Industry Sees 22% Growth in Northeast",
+      "body": "Industry sources report that hvac industry sees 22% growth in northeast. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.71,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2025-017",
+      "date": "2025-01-11",
+      "source": "ACHR News",
+      "headline": "Goodman Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that goodman cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.96,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-018",
+      "date": "2022-02-02",
+      "source": "Cooling Post",
+      "headline": "Carrier Expands Manufacturing Capacity by 23%",
+      "body": "Industry sources report that carrier expands manufacturing capacity by 23%. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.7,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2024-019",
+      "date": "2024-01-12",
+      "source": "HPAC Engineering",
+      "headline": "York Reports Strong Q1 Sales Growth",
+      "body": "Industry sources report that york reports strong q1 sales growth. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.72,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2022-020",
+      "date": "2022-03-05",
+      "source": "HVAC Industry Weekly",
+      "headline": "New Construction Permits Down 19% in Midwest",
+      "body": "Industry sources report that new construction permits down 19% in midwest. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.8,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-021",
+      "date": "2022-06-15",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.57,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-022",
+      "date": "2025-05-08",
+      "source": "HPAC Engineering",
+      "headline": "Goodman Expands Manufacturing Capacity by 15%",
+      "body": "Industry sources report that goodman expands manufacturing capacity by 15%. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.71,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2024-023",
+      "date": "2024-07-13",
+      "source": "Cooling Post",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.58,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2025-024",
+      "date": "2025-09-24",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.52,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2024-025",
+      "date": "2024-02-03",
+      "source": "Cooling Post",
+      "headline": "Carrier Reports Strong Q1 Sales Growth",
+      "body": "Industry sources report that carrier reports strong q1 sales growth. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.71,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2025-026",
+      "date": "2025-05-14",
+      "source": "ACHR News",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.92,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-027",
+      "date": "2025-02-13",
+      "source": "ACHR News",
+      "headline": "EPA Finalizes New SEER Standards for 2023",
+      "body": "Industry sources report that epa finalizes new seer standards for 2023. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.87,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-028",
+      "date": "2022-02-23",
+      "source": "HPAC Engineering",
+      "headline": "Goodman Faces Supply Chain Challenges",
+      "body": "Industry sources report that goodman faces supply chain challenges. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.89,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2022-029",
+      "date": "2022-01-13",
+      "source": "Cooling Post",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.62,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2024-030",
+      "date": "2024-02-10",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2025",
+      "body": "Industry sources report that epa finalizes new seer standards for 2025. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.94,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-031",
+      "date": "2022-04-18",
+      "source": "Cooling Post",
+      "headline": "York Reports Strong Q3 Sales Growth",
+      "body": "Industry sources report that york reports strong q3 sales growth. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.63,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2024-032",
+      "date": "2024-06-24",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2022",
+      "body": "Industry sources report that epa finalizes new seer standards for 2022. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.9,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-033",
+      "date": "2024-12-15",
+      "source": "ACHR News",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Heat Pump"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.63,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-034",
+      "date": "2023-06-08",
+      "source": "ACHR News",
+      "headline": "Housing Starts Rise to 36-Month High",
+      "body": "Industry sources report that housing starts rise to 36-month high. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.72,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2023-035",
+      "date": "2023-04-17",
+      "source": "HPAC Engineering",
+      "headline": "Trane Announces New Air Handler Line for 2025",
+      "body": "Industry sources report that trane announces new air handler line for 2025. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Air Handler"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.86,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2022-036",
+      "date": "2022-06-09",
+      "source": "ACHR News",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.92,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-037",
+      "date": "2022-12-18",
+      "source": "HPAC Engineering",
+      "headline": "EPA Finalizes New SEER Standards for 2025",
+      "body": "Industry sources report that epa finalizes new seer standards for 2025. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.94,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-038",
+      "date": "2024-03-31",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.8,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-039",
+      "date": "2025-07-20",
+      "source": "HVAC Industry Weekly",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.56,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-040",
+      "date": "2023-06-09",
+      "source": "Cooling Post",
+      "headline": "York Cuts Prices on Air Handler Models",
+      "body": "Industry sources report that york cuts prices on air handler models. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York",
+        "Air Handler"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.83,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-041",
+      "date": "2025-04-01",
+      "source": "Contracting Business",
+      "headline": "York Reports Strong Q2 Sales Growth",
+      "body": "Industry sources report that york reports strong q2 sales growth. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.74,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2025-042",
+      "date": "2025-07-17",
+      "source": "ACHR News",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.01,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-043",
+      "date": "2022-03-19",
+      "source": "HVAC Industry Weekly",
+      "headline": "EPA Finalizes New SEER Standards for 2022",
+      "body": "Industry sources report that epa finalizes new seer standards for 2022. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.92,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-044",
+      "date": "2025-04-03",
+      "source": "HPAC Engineering",
+      "headline": "Goodman Faces Supply Chain Challenges",
+      "body": "Industry sources report that goodman faces supply chain challenges. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.89,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2024-045",
+      "date": "2024-10-23",
+      "source": "Cooling Post",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.97,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-046",
+      "date": "2022-03-22",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 25% in West Coast",
+      "body": "Industry sources report that new construction permits down 25% in west coast. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.74,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2023-047",
+      "date": "2023-11-24",
+      "source": "HPAC Engineering",
+      "headline": "New Construction Permits Down 18% in Southwest",
+      "body": "Industry sources report that new construction permits down 18% in southwest. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.61,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2023-048",
+      "date": "2023-06-01",
+      "source": "HPAC Engineering",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.97,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-049",
+      "date": "2025-12-22",
+      "source": "HVAC Industry Weekly",
+      "headline": "HVAC Industry Sees 9% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 9% growth in southwest. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.61,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2024-050",
+      "date": "2024-05-17",
+      "source": "HPAC Engineering",
+      "headline": "Housing Starts Rise to 33-Month High",
+      "body": "Industry sources report that housing starts rise to 33-month high. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.72,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-051",
+      "date": "2022-10-09",
+      "source": "Cooling Post",
+      "headline": "HVAC Industry Sees 11% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 11% growth in southwest. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.57,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2024-052",
+      "date": "2024-02-11",
+      "source": "Cooling Post",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.48,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-053",
+      "date": "2025-06-04",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.6,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2024-054",
+      "date": "2024-01-24",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.82,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-055",
+      "date": "2025-05-23",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 10% in Southwest",
+      "body": "Industry sources report that new construction permits down 10% in southwest. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.77,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-056",
+      "date": "2022-06-21",
+      "source": "Cooling Post",
+      "headline": "Goodman Announces New Heat Pump Line for 2025",
+      "body": "Industry sources report that goodman announces new heat pump line for 2025. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.8,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2024-057",
+      "date": "2024-04-29",
+      "source": "HVAC Industry Weekly",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.58,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2022-058",
+      "date": "2022-07-22",
+      "source": "ACHR News",
+      "headline": "HVAC Industry Sees 5% Growth in Southeast",
+      "body": "Industry sources report that hvac industry sees 5% growth in southeast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.71,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2022-059",
+      "date": "2022-01-11",
+      "source": "HVAC Industry Weekly",
+      "headline": "Rheem Reports Strong Q3 Sales Growth",
+      "body": "Industry sources report that rheem reports strong q3 sales growth. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.6,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2022-060",
+      "date": "2022-04-08",
+      "source": "Cooling Post",
+      "headline": "Carrier Cuts Prices on Furnace Models",
+      "body": "Industry sources report that carrier cuts prices on furnace models. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier",
+        "Furnace"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.88,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-061",
+      "date": "2025-07-18",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.74,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-062",
+      "date": "2025-03-14",
+      "source": "Contracting Business",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.82,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-063",
+      "date": "2025-02-08",
+      "source": "HVAC Industry Weekly",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.88,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-064",
+      "date": "2023-12-08",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 16% in Northeast",
+      "body": "Industry sources report that new construction permits down 16% in northeast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.75,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2025-065",
+      "date": "2025-08-09",
+      "source": "Cooling Post",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.97,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-066",
+      "date": "2024-07-26",
+      "source": "HVAC Industry Weekly",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.86,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-067",
+      "date": "2024-08-27",
+      "source": "ACHR News",
+      "headline": "Lennox Announces New Furnace Line for 2023",
+      "body": "Industry sources report that lennox announces new furnace line for 2023. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox",
+        "Furnace"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.76,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2024-068",
+      "date": "2024-01-24",
+      "source": "Contracting Business",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.98,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-069",
+      "date": "2024-11-29",
+      "source": "ACHR News",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.94,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-070",
+      "date": "2023-10-20",
+      "source": "HVAC Industry Weekly",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.8,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-071",
+      "date": "2024-06-28",
+      "source": "ACHR News",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.89,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-072",
+      "date": "2024-01-15",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.94,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-073",
+      "date": "2022-05-18",
+      "source": "Cooling Post",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.96,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-074",
+      "date": "2024-07-10",
+      "source": "ACHR News",
+      "headline": "HVAC Industry Sees 9% Growth in West Coast",
+      "body": "Industry sources report that hvac industry sees 9% growth in west coast. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.62,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2023-075",
+      "date": "2023-07-25",
+      "source": "Cooling Post",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.81,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-076",
+      "date": "2023-06-18",
+      "source": "Contracting Business",
+      "headline": "Goodman Announces New Condenser Line for 2023",
+      "body": "Industry sources report that goodman announces new condenser line for 2023. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman",
+        "Condenser"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.79,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2022-077",
+      "date": "2022-12-20",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.05,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-078",
+      "date": "2023-09-07",
+      "source": "Cooling Post",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Heat Pump"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.76,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-079",
+      "date": "2023-04-30",
+      "source": "Contracting Business",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.79,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-080",
+      "date": "2023-09-26",
+      "source": "Contracting Business",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.7,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2025-081",
+      "date": "2025-08-08",
+      "source": "HVAC Industry Weekly",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.87,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-082",
+      "date": "2024-10-26",
+      "source": "HVAC Industry Weekly",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.97,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-083",
+      "date": "2024-11-28",
+      "source": "ACHR News",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.67,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2024-084",
+      "date": "2024-10-26",
+      "source": "Cooling Post",
+      "headline": "Trane Faces Supply Chain Challenges",
+      "body": "Industry sources report that trane faces supply chain challenges. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.82,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2022-085",
+      "date": "2022-03-26",
+      "source": "HVAC Industry Weekly",
+      "headline": "EPA Finalizes New SEER Standards for 2023",
+      "body": "Industry sources report that epa finalizes new seer standards for 2023. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.87,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-086",
+      "date": "2024-10-16",
+      "source": "HPAC Engineering",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.86,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-087",
+      "date": "2025-11-11",
+      "source": "HVAC Industry Weekly",
+      "headline": "York Faces Supply Chain Challenges",
+      "body": "Industry sources report that york faces supply chain challenges. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.73,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2023-088",
+      "date": "2023-10-16",
+      "source": "ACHR News",
+      "headline": "Housing Starts Rise to 22-Month High",
+      "body": "Industry sources report that housing starts rise to 22-month high. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.85,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2024-089",
+      "date": "2024-07-09",
+      "source": "Cooling Post",
+      "headline": "Lennox Reports Strong Q1 Sales Growth",
+      "body": "Industry sources report that lennox reports strong q1 sales growth. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.63,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2025-090",
+      "date": "2025-03-29",
+      "source": "ACHR News",
+      "headline": "Goodman Announces New Condenser Line for 2024",
+      "body": "Industry sources report that goodman announces new condenser line for 2024. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman",
+        "Condenser"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.79,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2024-091",
+      "date": "2024-03-16",
+      "source": "HPAC Engineering",
+      "headline": "Rheem Reports Strong Q4 Sales Growth",
+      "body": "Industry sources report that rheem reports strong q4 sales growth. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.69,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2025-092",
+      "date": "2025-09-01",
+      "source": "Contracting Business",
+      "headline": "Carrier Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that carrier cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.86,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-093",
+      "date": "2022-04-03",
+      "source": "Contracting Business",
+      "headline": "Trane Announces New Furnace Line for 2022",
+      "body": "Industry sources report that trane announces new furnace line for 2022. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Furnace"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.76,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2024-094",
+      "date": "2024-07-11",
+      "source": "HPAC Engineering",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.56,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2024-095",
+      "date": "2024-01-19",
+      "source": "Cooling Post",
+      "headline": "EPA Finalizes New SEER Standards for 2022",
+      "body": "Industry sources report that epa finalizes new seer standards for 2022. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.89,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-096",
+      "date": "2024-11-29",
+      "source": "Contracting Business",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.53,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2023-097",
+      "date": "2023-09-05",
+      "source": "HPAC Engineering",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.57,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2022-098",
+      "date": "2022-08-13",
+      "source": "Contracting Business",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.57,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-099",
+      "date": "2022-04-16",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.72,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-100",
+      "date": "2022-08-14",
+      "source": "Cooling Post",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.5,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2025-101",
+      "date": "2025-06-06",
+      "source": "Contracting Business",
+      "headline": "HVAC Industry Sees 21% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 21% growth in southwest. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.72,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2024-102",
+      "date": "2024-09-06",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.86,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-103",
+      "date": "2023-01-29",
+      "source": "Cooling Post",
+      "headline": "Goodman Reports Strong Q3 Sales Growth",
+      "body": "Industry sources report that goodman reports strong q3 sales growth. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.66,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2023-104",
+      "date": "2023-12-16",
+      "source": "HPAC Engineering",
+      "headline": "Lennox Faces Supply Chain Challenges",
+      "body": "Industry sources report that lennox faces supply chain challenges. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.89,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2023-105",
+      "date": "2023-12-08",
+      "source": "Cooling Post",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.68,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-106",
+      "date": "2025-01-08",
+      "source": "ACHR News",
+      "headline": "Rheem Faces Supply Chain Challenges",
+      "body": "Industry sources report that rheem faces supply chain challenges. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.89,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2022-107",
+      "date": "2022-04-14",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.83,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-108",
+      "date": "2022-10-09",
+      "source": "HVAC Industry Weekly",
+      "headline": "Rheem Cuts Prices on Furnace Models",
+      "body": "Industry sources report that rheem cuts prices on furnace models. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem",
+        "Furnace"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.99,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-109",
+      "date": "2025-08-15",
+      "source": "HVAC Industry Weekly",
+      "headline": "Rheem Reports Strong Q4 Sales Growth",
+      "body": "Industry sources report that rheem reports strong q4 sales growth. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.78,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2024-110",
+      "date": "2024-10-11",
+      "source": "Cooling Post",
+      "headline": "Trane Expands Manufacturing Capacity by 6%",
+      "body": "Industry sources report that trane expands manufacturing capacity by 6%. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.84,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2023-111",
+      "date": "2023-11-18",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.54,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-112",
+      "date": "2023-11-09",
+      "source": "Cooling Post",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.95,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-113",
+      "date": "2023-01-31",
+      "source": "Cooling Post",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.92,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-114",
+      "date": "2022-07-15",
+      "source": "Cooling Post",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.0,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-115",
+      "date": "2023-07-01",
+      "source": "ACHR News",
+      "headline": "New Construction Permits Down 12% in Southwest",
+      "body": "Industry sources report that new construction permits down 12% in southwest. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.66,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-116",
+      "date": "2022-08-31",
+      "source": "Contracting Business",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.84,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-117",
+      "date": "2023-03-25",
+      "source": "Cooling Post",
+      "headline": "Housing Starts Rise to 19-Month High",
+      "body": "Industry sources report that housing starts rise to 19-month high. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.75,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2023-118",
+      "date": "2023-03-24",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 22% in Southwest",
+      "body": "Industry sources report that new construction permits down 22% in southwest. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.74,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-119",
+      "date": "2022-05-07",
+      "source": "HPAC Engineering",
+      "headline": "EPA Finalizes New SEER Standards for 2022",
+      "body": "Industry sources report that epa finalizes new seer standards for 2022. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.03,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-120",
+      "date": "2023-02-25",
+      "source": "HPAC Engineering",
+      "headline": "Lennox Cuts Prices on Packaged Unit Models",
+      "body": "Industry sources report that lennox cuts prices on packaged unit models. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox",
+        "Packaged Unit"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.9,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-121",
+      "date": "2025-02-28",
+      "source": "HVAC Industry Weekly",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.61,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2022-122",
+      "date": "2022-05-30",
+      "source": "HVAC Industry Weekly",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.88,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-123",
+      "date": "2023-01-04",
+      "source": "Cooling Post",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.93,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-124",
+      "date": "2025-10-30",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.81,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2023-125",
+      "date": "2023-04-02",
+      "source": "HVAC Industry Weekly",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.6,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-126",
+      "date": "2023-12-10",
+      "source": "Cooling Post",
+      "headline": "Goodman Faces Supply Chain Challenges",
+      "body": "Industry sources report that goodman faces supply chain challenges. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.76,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2023-127",
+      "date": "2023-02-27",
+      "source": "HVAC Industry Weekly",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.8,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-128",
+      "date": "2025-01-10",
+      "source": "Cooling Post",
+      "headline": "Trane Announces New Heat Pump Line for 2025",
+      "body": "Industry sources report that trane announces new heat pump line for 2025. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.9,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2025-129",
+      "date": "2025-03-28",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.77,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-130",
+      "date": "2023-09-08",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.46,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-131",
+      "date": "2025-10-06",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2023",
+      "body": "Industry sources report that epa finalizes new seer standards for 2023. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.01,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-132",
+      "date": "2025-01-06",
+      "source": "Contracting Business",
+      "headline": "HVAC Industry Sees 10% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 10% growth in southwest. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.6,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2025-133",
+      "date": "2025-02-15",
+      "source": "HPAC Engineering",
+      "headline": "Rheem Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that rheem cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.83,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-134",
+      "date": "2025-01-01",
+      "source": "Cooling Post",
+      "headline": "Lennox Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that lennox cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.81,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2023-135",
+      "date": "2023-03-04",
+      "source": "ACHR News",
+      "headline": "Housing Starts Rise to 27-Month High",
+      "body": "Industry sources report that housing starts rise to 27-month high. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.71,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-136",
+      "date": "2025-05-22",
+      "source": "Cooling Post",
+      "headline": "York Announces New Heat Pump Line for 2023",
+      "body": "Industry sources report that york announces new heat pump line for 2023. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.83,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2023-137",
+      "date": "2023-09-24",
+      "source": "ACHR News",
+      "headline": "Rheem Cuts Prices on Condenser Models",
+      "body": "Industry sources report that rheem cuts prices on condenser models. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem",
+        "Condenser"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.87,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2023-138",
+      "date": "2023-10-03",
+      "source": "Contracting Business",
+      "headline": "New Construction Permits Down 11% in Midwest",
+      "body": "Industry sources report that new construction permits down 11% in midwest. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.61,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2024-139",
+      "date": "2024-05-05",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.48,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-140",
+      "date": "2025-11-03",
+      "source": "ACHR News",
+      "headline": "HVAC Industry Sees 22% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 22% growth in southwest. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.6,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2025-141",
+      "date": "2025-01-24",
+      "source": "Contracting Business",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.49,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-142",
+      "date": "2025-07-15",
+      "source": "Cooling Post",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.51,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2025-143",
+      "date": "2025-07-30",
+      "source": "HPAC Engineering",
+      "headline": "Goodman Reports Strong Q2 Sales Growth",
+      "body": "Industry sources report that goodman reports strong q2 sales growth. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.78,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2022-144",
+      "date": "2022-02-04",
+      "source": "HPAC Engineering",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.94,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-145",
+      "date": "2024-12-09",
+      "source": "Cooling Post",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.55,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2024-146",
+      "date": "2024-07-29",
+      "source": "HPAC Engineering",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.9,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-147",
+      "date": "2024-02-16",
+      "source": "Contracting Business",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.89,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-148",
+      "date": "2025-03-04",
+      "source": "HVAC Industry Weekly",
+      "headline": "Carrier Announces New Condenser Line for 2022",
+      "body": "Industry sources report that carrier announces new condenser line for 2022. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier",
+        "Condenser"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.93,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2022-149",
+      "date": "2022-06-02",
+      "source": "ACHR News",
+      "headline": "York Announces New Packaged Unit Line for 2023",
+      "body": "Industry sources report that york announces new packaged unit line for 2023. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York",
+        "Packaged Unit"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.93,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2025-150",
+      "date": "2025-12-30",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2022",
+      "body": "Industry sources report that epa finalizes new seer standards for 2022. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 1.04,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-151",
+      "date": "2022-10-14",
+      "source": "HVAC Industry Weekly",
+      "headline": "Goodman Faces Supply Chain Challenges",
+      "body": "Industry sources report that goodman faces supply chain challenges. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.8,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2025-152",
+      "date": "2025-06-11",
+      "source": "HPAC Engineering",
+      "headline": "HVAC Industry Sees 15% Growth in Northeast",
+      "body": "Industry sources report that hvac industry sees 15% growth in northeast. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.63,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2023-153",
+      "date": "2023-12-30",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.81,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-154",
+      "date": "2022-05-31",
+      "source": "HVAC Industry Weekly",
+      "headline": "Housing Starts Rise to 34-Month High",
+      "body": "Industry sources report that housing starts rise to 34-month high. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.7,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2023-155",
+      "date": "2023-09-24",
+      "source": "Contracting Business",
+      "headline": "Housing Starts Rise to 12-Month High",
+      "body": "Industry sources report that housing starts rise to 12-month high. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.72,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-156",
+      "date": "2025-02-10",
+      "source": "HPAC Engineering",
+      "headline": "Carrier Faces Supply Chain Challenges",
+      "body": "Industry sources report that carrier faces supply chain challenges. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.78,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2024-157",
+      "date": "2024-02-28",
+      "source": "HVAC Industry Weekly",
+      "headline": "Goodman Announces New Heat Pump Line for 2022",
+      "body": "Industry sources report that goodman announces new heat pump line for 2022. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.81,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2022-158",
+      "date": "2022-10-12",
+      "source": "ACHR News",
+      "headline": "Housing Starts Rise to 17-Month High",
+      "body": "Industry sources report that housing starts rise to 17-month high. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.71,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2024-159",
+      "date": "2024-09-18",
+      "source": "HVAC Industry Weekly",
+      "headline": "New Construction Permits Down 18% in Midwest",
+      "body": "Industry sources report that new construction permits down 18% in midwest. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.67,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2024-160",
+      "date": "2024-03-21",
+      "source": "ACHR News",
+      "headline": "Rheem Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that rheem cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.97,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2023-161",
+      "date": "2023-10-19",
+      "source": "HPAC Engineering",
+      "headline": "Housing Starts Rise to 21-Month High",
+      "body": "Industry sources report that housing starts rise to 21-month high. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.84,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-162",
+      "date": "2025-11-24",
+      "source": "Contracting Business",
+      "headline": "Trane Cuts Prices on Condenser Models",
+      "body": "Industry sources report that trane cuts prices on condenser models. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Condenser"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.99,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-163",
+      "date": "2025-02-28",
+      "source": "Cooling Post",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.74,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-164",
+      "date": "2025-11-19",
+      "source": "HVAC Industry Weekly",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.66,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2022-165",
+      "date": "2022-11-12",
+      "source": "Contracting Business",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.78,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2024-166",
+      "date": "2024-05-06",
+      "source": "HPAC Engineering",
+      "headline": "Goodman Expands Manufacturing Capacity by 21%",
+      "body": "Industry sources report that goodman expands manufacturing capacity by 21%. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.66,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2022-167",
+      "date": "2022-04-01",
+      "source": "HPAC Engineering",
+      "headline": "HVAC Industry Sees 25% Growth in Southeast",
+      "body": "Industry sources report that hvac industry sees 25% growth in southeast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.75,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2023-168",
+      "date": "2023-03-31",
+      "source": "HPAC Engineering",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.95,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-169",
+      "date": "2024-10-21",
+      "source": "Cooling Post",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.57,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2022-170",
+      "date": "2022-10-18",
+      "source": "ACHR News",
+      "headline": "Lennox Announces New Condenser Line for 2025",
+      "body": "Industry sources report that lennox announces new condenser line for 2025. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox",
+        "Condenser"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.81,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2025-171",
+      "date": "2025-11-27",
+      "source": "Contracting Business",
+      "headline": "New Construction Permits Down 19% in Northeast",
+      "body": "Industry sources report that new construction permits down 19% in northeast. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.66,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2023-172",
+      "date": "2023-05-15",
+      "source": "HPAC Engineering",
+      "headline": "Carrier Faces Supply Chain Challenges",
+      "body": "Industry sources report that carrier faces supply chain challenges. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.73,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2023-173",
+      "date": "2023-01-17",
+      "source": "Contracting Business",
+      "headline": "Rheem Reports Strong Q4 Sales Growth",
+      "body": "Industry sources report that rheem reports strong q4 sales growth. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.68,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2023-174",
+      "date": "2023-03-16",
+      "source": "Cooling Post",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.84,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-175",
+      "date": "2024-07-26",
+      "source": "HVAC Industry Weekly",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.83,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-176",
+      "date": "2022-08-22",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.52,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-177",
+      "date": "2022-08-30",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 9% in Northeast",
+      "body": "Industry sources report that new construction permits down 9% in northeast. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.66,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2025-178",
+      "date": "2025-03-23",
+      "source": "Contracting Business",
+      "headline": "Goodman Reports Strong Q2 Sales Growth",
+      "body": "Industry sources report that goodman reports strong q2 sales growth. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.68,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2024-179",
+      "date": "2024-07-12",
+      "source": "HPAC Engineering",
+      "headline": "New Construction Permits Down 10% in Southeast",
+      "body": "Industry sources report that new construction permits down 10% in southeast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.61,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2025-180",
+      "date": "2025-08-30",
+      "source": "Contracting Business",
+      "headline": "HVAC Industry Sees 22% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 22% growth in southwest. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.63,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2023-181",
+      "date": "2023-03-28",
+      "source": "ACHR News",
+      "headline": "New Construction Permits Down 23% in Northeast",
+      "body": "Industry sources report that new construction permits down 23% in northeast. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.61,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-182",
+      "date": "2022-08-20",
+      "source": "HPAC Engineering",
+      "headline": "Rheem Cuts Prices on Packaged Unit Models",
+      "body": "Industry sources report that rheem cuts prices on packaged unit models. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem",
+        "Packaged Unit"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.82,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-183",
+      "date": "2022-07-29",
+      "source": "Cooling Post",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.68,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-184",
+      "date": "2023-05-01",
+      "source": "Cooling Post",
+      "headline": "Lennox Announces New Heat Pump Line for 2025",
+      "body": "Industry sources report that lennox announces new heat pump line for 2025. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.91,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2022-185",
+      "date": "2022-05-02",
+      "source": "HPAC Engineering",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.92,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-186",
+      "date": "2024-11-19",
+      "source": "HVAC Industry Weekly",
+      "headline": "York Faces Supply Chain Challenges",
+      "body": "Industry sources report that york faces supply chain challenges. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.73,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2025-187",
+      "date": "2025-12-27",
+      "source": "ACHR News",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.79,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2024-188",
+      "date": "2024-02-08",
+      "source": "Contracting Business",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.64,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-189",
+      "date": "2023-11-02",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.62,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-190",
+      "date": "2023-03-23",
+      "source": "Contracting Business",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.78,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-191",
+      "date": "2025-03-05",
+      "source": "Contracting Business",
+      "headline": "New Construction Permits Down 23% in West Coast",
+      "body": "Industry sources report that new construction permits down 23% in west coast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.76,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2024-192",
+      "date": "2024-06-22",
+      "source": "Contracting Business",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.8,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-193",
+      "date": "2025-09-02",
+      "source": "ACHR News",
+      "headline": "Housing Starts Rise to 14-Month High",
+      "body": "Industry sources report that housing starts rise to 14-month high. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.7,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-194",
+      "date": "2022-07-06",
+      "source": "HVAC Industry Weekly",
+      "headline": "HVAC Industry Sees 18% Growth in Southeast",
+      "body": "Industry sources report that hvac industry sees 18% growth in southeast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.55,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2022-195",
+      "date": "2022-01-17",
+      "source": "ACHR News",
+      "headline": "New Construction Permits Down 19% in West Coast",
+      "body": "Industry sources report that new construction permits down 19% in west coast. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.76,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-196",
+      "date": "2022-07-29",
+      "source": "HVAC Industry Weekly",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.51,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-197",
+      "date": "2022-01-18",
+      "source": "HPAC Engineering",
+      "headline": "Trane Faces Supply Chain Challenges",
+      "body": "Industry sources report that trane faces supply chain challenges. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.83,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2024-198",
+      "date": "2024-06-25",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 24% in Southwest",
+      "body": "Industry sources report that new construction permits down 24% in southwest. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.62,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-199",
+      "date": "2022-10-14",
+      "source": "Cooling Post",
+      "headline": "Goodman Expands Manufacturing Capacity by 18%",
+      "body": "Industry sources report that goodman expands manufacturing capacity by 18%. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.71,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2025-200",
+      "date": "2025-05-27",
+      "source": "HPAC Engineering",
+      "headline": "York Expands Manufacturing Capacity by 11%",
+      "body": "Industry sources report that york expands manufacturing capacity by 11%. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.69,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2024-201",
+      "date": "2024-10-20",
+      "source": "HPAC Engineering",
+      "headline": "Housing Starts Rise to 19-Month High",
+      "body": "Industry sources report that housing starts rise to 19-month high. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.66,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-202",
+      "date": "2025-01-23",
+      "source": "Cooling Post",
+      "headline": "Trane Announces New Condenser Line for 2024",
+      "body": "Industry sources report that trane announces new condenser line for 2024. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Condenser"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.9,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2022-203",
+      "date": "2022-03-23",
+      "source": "HVAC Industry Weekly",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Heat Pump"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.81,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-204",
+      "date": "2025-01-06",
+      "source": "HPAC Engineering",
+      "headline": "Housing Starts Rise to 29-Month High",
+      "body": "Industry sources report that housing starts rise to 29-month high. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.68,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2024-205",
+      "date": "2024-03-11",
+      "source": "HPAC Engineering",
+      "headline": "Goodman Expands Manufacturing Capacity by 22%",
+      "body": "Industry sources report that goodman expands manufacturing capacity by 22%. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.78,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2022-206",
+      "date": "2022-06-26",
+      "source": "Contracting Business",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.47,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-207",
+      "date": "2022-10-09",
+      "source": "HVAC Industry Weekly",
+      "headline": "EPA Finalizes New SEER Standards for 2022",
+      "body": "Industry sources report that epa finalizes new seer standards for 2022. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.88,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2022-208",
+      "date": "2022-03-02",
+      "source": "ACHR News",
+      "headline": "HVAC Industry Sees 8% Growth in Midwest",
+      "body": "Industry sources report that hvac industry sees 8% growth in midwest. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.71,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2024-209",
+      "date": "2024-11-12",
+      "source": "ACHR News",
+      "headline": "York Faces Supply Chain Challenges",
+      "body": "Industry sources report that york faces supply chain challenges. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.71,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2022-210",
+      "date": "2022-08-25",
+      "source": "Cooling Post",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.6,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-211",
+      "date": "2022-11-04",
+      "source": "Cooling Post",
+      "headline": "Trane Announces New Heat Pump Line for 2022",
+      "body": "Industry sources report that trane announces new heat pump line for 2022. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Heat Pump"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.94,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2023-212",
+      "date": "2023-10-18",
+      "source": "ACHR News",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.62,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-213",
+      "date": "2022-04-05",
+      "source": "Contracting Business",
+      "headline": "EPA Finalizes New SEER Standards for 2024",
+      "body": "Industry sources report that epa finalizes new seer standards for 2024. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.86,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-214",
+      "date": "2024-01-26",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 19% in West Coast",
+      "body": "Industry sources report that new construction permits down 19% in west coast. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.66,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2023-215",
+      "date": "2023-02-05",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.77,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2025-216",
+      "date": "2025-07-26",
+      "source": "HVAC Industry Weekly",
+      "headline": "Rheem Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that rheem cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Rheem",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.99,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2024-217",
+      "date": "2024-10-04",
+      "source": "HVAC Industry Weekly",
+      "headline": "Carrier Announces New Air Handler Line for 2025",
+      "body": "Industry sources report that carrier announces new air handler line for 2025. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier",
+        "Air Handler"
+      ],
+      "sentiment": "neutral",
+      "relevance_score": 0.94,
+      "tags": [
+        "product_launch"
+      ]
+    },
+    {
+      "id": "NEWS-2024-218",
+      "date": "2024-02-02",
+      "source": "Contracting Business",
+      "headline": "Carrier Reports Strong Q1 Sales Growth",
+      "body": "Industry sources report that carrier reports strong q1 sales growth. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.79,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2022-219",
+      "date": "2022-05-08",
+      "source": "Contracting Business",
+      "headline": "York Expands Manufacturing Capacity by 23%",
+      "body": "Industry sources report that york expands manufacturing capacity by 23%. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "York"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.78,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2024-220",
+      "date": "2024-07-16",
+      "source": "ACHR News",
+      "headline": "Lennox Reports Strong Q3 Sales Growth",
+      "body": "Industry sources report that lennox reports strong q3 sales growth. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Lennox"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.65,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2023-221",
+      "date": "2023-10-06",
+      "source": "Contracting Business",
+      "headline": "Trane Cuts Prices on Heat Pump Models",
+      "body": "Industry sources report that trane cuts prices on heat pump models. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Heat Pump"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.82,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-222",
+      "date": "2022-11-19",
+      "source": "ACHR News",
+      "headline": "HVAC Industry Sees 8% Growth in Midwest",
+      "body": "Industry sources report that hvac industry sees 8% growth in midwest. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.72,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2024-223",
+      "date": "2024-03-22",
+      "source": "HPAC Engineering",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.79,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2025-224",
+      "date": "2025-01-31",
+      "source": "Cooling Post",
+      "headline": "Carrier Faces Supply Chain Challenges",
+      "body": "Industry sources report that carrier faces supply chain challenges. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "positive",
+      "relevance_score": 0.72,
+      "tags": [
+        "supply_chain"
+      ]
+    },
+    {
+      "id": "NEWS-2024-225",
+      "date": "2024-03-31",
+      "source": "ACHR News",
+      "headline": "Carrier Expands Manufacturing Capacity by 9%",
+      "body": "Industry sources report that carrier expands manufacturing capacity by 9%. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Carrier"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.79,
+      "tags": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "NEWS-2024-226",
+      "date": "2024-06-27",
+      "source": "Cooling Post",
+      "headline": "DOE Announces Efficiency Requirements Update",
+      "body": "Industry sources report that doe announces efficiency requirements update. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.82,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-227",
+      "date": "2024-06-06",
+      "source": "Contracting Business",
+      "headline": "Smart HVAC Systems Gain Market Traction",
+      "body": "Industry sources report that smart hvac systems gain market traction. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.55,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2024-228",
+      "date": "2024-07-02",
+      "source": "Cooling Post",
+      "headline": "Housing Starts Rise to 20-Month High",
+      "body": "Industry sources report that housing starts rise to 20-month high. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.66,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2022-229",
+      "date": "2022-06-29",
+      "source": "ACHR News",
+      "headline": "EPA Finalizes New SEER Standards for 2023",
+      "body": "Industry sources report that epa finalizes new seer standards for 2023. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.93,
+      "tags": [
+        "regulation"
+      ]
+    },
+    {
+      "id": "NEWS-2024-230",
+      "date": "2024-01-06",
+      "source": "Contracting Business",
+      "headline": "Housing Starts Rise to 34-Month High",
+      "body": "Industry sources report that housing starts rise to 34-month high. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.76,
+      "tags": [
+        "housing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-231",
+      "date": "2025-05-07",
+      "source": "Cooling Post",
+      "headline": "New Construction Permits Down 5% in Southeast",
+      "body": "Industry sources report that new construction permits down 5% in southeast. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.61,
+      "tags": [
+        "construction"
+      ]
+    },
+    {
+      "id": "NEWS-2022-232",
+      "date": "2022-11-23",
+      "source": "HVAC Industry Weekly",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.67,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-233",
+      "date": "2022-12-27",
+      "source": "Cooling Post",
+      "headline": "Trane Cuts Prices on Packaged Unit Models",
+      "body": "Industry sources report that trane cuts prices on packaged unit models. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Trane",
+        "Packaged Unit"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.92,
+      "tags": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "NEWS-2025-234",
+      "date": "2025-02-27",
+      "source": "Cooling Post",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.79,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2023-235",
+      "date": "2023-04-22",
+      "source": "HPAC Engineering",
+      "headline": "Heat Pump Adoption Accelerates in Northern Markets",
+      "body": "Industry sources report that heat pump adoption accelerates in northern markets. This development is expected to impact the condenser market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "positive",
+      "relevance_score": 0.66,
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "NEWS-2022-236",
+      "date": "2022-12-30",
+      "source": "ACHR News",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.51,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2025-237",
+      "date": "2025-09-18",
+      "source": "Contracting Business",
+      "headline": "Goodman Reports Strong Q1 Sales Growth",
+      "body": "Industry sources report that goodman reports strong q1 sales growth. This development is expected to impact the furnace market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [
+        "Goodman"
+      ],
+      "sentiment": "negative",
+      "relevance_score": 0.72,
+      "tags": [
+        "earnings"
+      ]
+    },
+    {
+      "id": "NEWS-2025-238",
+      "date": "2025-08-22",
+      "source": "ACHR News",
+      "headline": "HVAC Industry Sees 25% Growth in Southwest",
+      "body": "Industry sources report that hvac industry sees 25% growth in southwest. This development is expected to impact the air handler market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.58,
+      "tags": [
+        "market"
+      ]
+    },
+    {
+      "id": "NEWS-2025-239",
+      "date": "2025-11-11",
+      "source": "ACHR News",
+      "headline": "Energy Costs Impact HVAC Replacement Decisions",
+      "body": "Industry sources report that energy costs impact hvac replacement decisions. This development is expected to impact the packaged unit market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "neutral",
+      "relevance_score": 0.53,
+      "tags": [
+        "energy"
+      ]
+    },
+    {
+      "id": "NEWS-2025-240",
+      "date": "2025-06-06",
+      "source": "Cooling Post",
+      "headline": "Refrigerant Phase-Out Timeline Accelerated",
+      "body": "Industry sources report that refrigerant phase-out timeline accelerated. This development is expected to impact the heat pump market segment. Analysts are monitoring the situation for potential effects on market dynamics.",
+      "entities": [],
+      "sentiment": "negative",
+      "relevance_score": 0.91,
+      "tags": [
+        "regulation"
+      ]
+    }
+  ]
+}

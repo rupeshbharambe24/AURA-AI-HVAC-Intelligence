@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+statsmodels
+ruptures
+joblib
+shap
+nbclient
+nbformat
+python-docx
+docx2pdf
