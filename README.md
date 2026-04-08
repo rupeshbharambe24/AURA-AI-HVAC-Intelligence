@@ -6,7 +6,7 @@
 <h1 align="center">AURA AI — HVAC Demand Intelligence Platform</h1>
 
 <p align="center">
-  <strong>Winning solution for the HVAC Demand Intelligence Challenge at <a href="https://atscale.in/">@Scale Applied AI Summit 2026</a></strong><br/>
+  <strong>Winning solution in Applied AI Challenge for the HVAC Demand Intelligence at <a href="https://atscale.in/">@Scale Applied AI Summit 2026</a></strong><br/>
   <em>Organized by Findability Sciences | Team SentinelX</em>
 </p>
 
